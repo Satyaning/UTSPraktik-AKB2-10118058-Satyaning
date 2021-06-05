@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UTSPraktikakb210118058SatyaningAndaru.Title">
+        <item name="android:textColor">@color/black3</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/size_title</item>
+    </style>
+
+    <style name="Theme.UTSPraktikakb210118058SatyaningAndaru.BigTitle" parent="Theme.UTSPraktikakb210118058SatyaningAndaru.Title">
+        <item name="fontFamily">sans-serif-black</item>
+    </style>
+    <style name="Theme.UTSPraktikakb210118058SatyaningAndaru.Button" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

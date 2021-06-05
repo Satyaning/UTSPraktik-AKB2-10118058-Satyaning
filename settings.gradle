@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UTSPraktik-akb2-10118058-SatyaningAndaru"
